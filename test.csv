@@ -1,0 +1,7 @@
+﻿beneficiary_name,beneficiary_sort_code,beneficiary_account,amount,payment_reference,processing_date
+John Doe,65-43-21,87654321,1000,Invoice 123,5/19/25
+Jane Smith,32-10-98,56789012,500,Salary Payment,5/19/25
+Michael Johnson,11/22/33,44556677,1200,Salary May 2025,5/22/25
+Emily Carter,44-55-66,77889900,1500,Salary May 2025,5/22/25
+David Lee,77-88-99,99887766,2000.5,Freelance Work,5/25/25
+Sarah Brown,22-33-44,11223344,1800.75,Contract Services,5/25/25
